@@ -30,5 +30,3 @@
 </div>
 
 <!-- ![Snake animation](http://github.com/JacksonPandolfo/JacksonPandolfo/blob/output/github-contribution-grid-snake.svg) -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
