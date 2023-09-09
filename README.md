@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho como eletricista
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou estudando Python com foco em dados
-- 😄 Pronouns: ele/dele
 
 <div>
   <img height= 180rem src="https://github-readme-stats.vercel.app/api?username=JacksonPandolfo&show_icons=true&theme=nightowl"/>
