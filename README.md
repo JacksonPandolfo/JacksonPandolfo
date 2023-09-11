@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jackson Pandolfo, é um prazer ter você aqui 🙃
 
-- 🔭 Hoje trabalho como eletricista
+- 🔭 Atualmente trabalho como eletricista
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou estudando Python com foco em dados
 
