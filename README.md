@@ -41,6 +41,6 @@
 
 ---
 <div align="center">
-  <i>“O código é poesia em movimento — quanto mais limpo, mais elegante.”</i>
+  <i>“Transformando ideias em código e código em resultados.”</i>
 </div>
 <!-- ![Snake animation](http://github.com/JacksonPandolfo/JacksonPandolfo/blob/output/github-contribution-grid-snake.svg) -->
