@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jackson Pandolfo, é um prazer ter você aqui 🙃
 
-- 💡  Atualmente trabalho como eletricista.
+- 💡  Atualmente trabalho como automação industrial.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Focando meus estudos em Python para ciência de dados.
+- 🌱 Focando meus estudos para backend.
 
 <div>
   <img height= 180rem src="https://github-readme-stats.vercel.app/api?username=JacksonPandolfo&show_icons=true&theme=nightowl"/>
