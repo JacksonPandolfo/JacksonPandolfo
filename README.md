@@ -11,7 +11,7 @@
 
 ## 🧠 Tecnologias que já utilizei em trabalhos acadêmicos
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Jack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jack-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Jack-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
